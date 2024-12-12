@@ -11,6 +11,5 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundclou
 build-mode = "both"
 cli-source = "ReVanced/revanced-cli"
 patches-source = "ReVanced/revanced-patches"
-integrations-source = "ReVanced/revanced-integrations"
 cli-version = "dev"
 patches-version = "dev"
