@@ -8,6 +8,7 @@ parallel-jobs = 1
 
 [SoundCloud]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
+uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 build-mode = "both"
 cli-source = "ReVanced/revanced-cli"
 patches-source = "ReVanced/revanced-patches"
