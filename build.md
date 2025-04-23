@@ -1,4 +1,4 @@
-SoundCloud: 2025.03.25-release  
+SoundCloud: 2025.04.03-release  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
@@ -6,5 +6,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: ReVanced/revanced-cli-5.0.2-dev.1-all.jar  
-Patches: ReVanced/patches-5.21.0-dev.9.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.21.0-dev.9)  
+Patches: ReVanced/patches-5.21.0-dev.10.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.21.0-dev.10)  
